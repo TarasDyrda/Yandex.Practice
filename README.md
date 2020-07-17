@@ -1,5 +1,5 @@
 Yandex.Practice
-Курс Яндекс.Практикум по специальности QA Engineer https://github.com/users/AlexeyLenskiy/projects/2
+Курс Яндекс.Практикум по специальности QA Engineer
 
 Sprint 1
 
